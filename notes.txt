@@ -3,3 +3,13 @@ Organized pages for photography:
 - Miscellanious
 - Hide
 - Teenager
+
+For Teenager
+ - scattered images, enlargable on click
+MPOTH
+ - Ticker boxes with moving text,
+ - a gif flying across the page indescriminantly
+ - 
+ Fleeting Stillness
+ - Text boxes, proportional images
+ - Horizontal scroll
